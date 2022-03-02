@@ -70,8 +70,8 @@ for talent_contribution in PCT_TALENT:
 
 
 
-print(PCT_TALENT)
-print(sliding_mean_talent)
+# print(PCT_TALENT)
+# print(sliding_mean_talent)
 
 
 #Plotting the data
