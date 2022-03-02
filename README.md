@@ -14,7 +14,7 @@ This was inspired by a youtube channel (Veritasium) video, named `Is Success Luc
 
 
 ## Requirements
-This python script was executed on `Python 3.8.6` withon a virtual environment, created using `virtualenv==20.2.2` python package.
+This python script was executed on `Python 3.8.6` within a virtual environment.
 
 In order to install the required packages, please create a virtual environment and execute the command below
 
