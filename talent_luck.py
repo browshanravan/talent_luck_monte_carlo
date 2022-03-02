@@ -87,7 +87,7 @@ plt.rcParams['ytick.left'] = False
 
 plt.plot(talent, color="tab:orange", linewidth=1, marker="o", markersize=6, ls="--", markeredgecolor="w", markeredgewidth=1.3)
 plt.gca().invert_xaxis()
-plt.xlabel("% talent Contribution")
+plt.xlabel("% Talent Contribution")
 plt.ylabel(F"Participant selected out of {REQUIRED_PARTICIPANTS}")
 
 
